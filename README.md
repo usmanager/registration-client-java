@@ -18,6 +18,12 @@ Building the API client library requires:
 
 ## Installation
 
+Java version 8:
+```
+sudo apt install openjdk-8-jdk
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64
+```
+
 To install the API client library to your local Maven repository, simply execute:
 
 ```shell

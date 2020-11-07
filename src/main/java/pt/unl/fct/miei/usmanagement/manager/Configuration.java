@@ -13,7 +13,7 @@
 
 package pt.unl.fct.miei.usmanagement.manager;
 
-@javax.annotation.processing.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2020-11-03T14:38:29.767Z")
+@javax.annotation.Generated(value = "io.swagger.codegen.languages.JavaClientCodegen", date = "2020-11-03T14:38:29.767Z")
 public class Configuration {
     private static ApiClient defaultApiClient = new ApiClient();
 
